@@ -1,0 +1,1 @@
+Both commands are used while working in a clone repository; git fetch - to review the most recent updates, git pull brings those changes to your repository. 
